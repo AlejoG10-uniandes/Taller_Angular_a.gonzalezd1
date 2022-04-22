@@ -1,0 +1,16 @@
+.navbar {
+  margin-bottom: 25px;
+}
+
+.navbar-brand {
+  margin-left: 25px;
+}
+
+.navbar img {
+  margin-right: 15px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}

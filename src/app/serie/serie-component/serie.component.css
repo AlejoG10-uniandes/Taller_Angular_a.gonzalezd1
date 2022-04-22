@@ -1,0 +1,17 @@
+.container-fluid {
+  padding: 0 25px;
+}
+
+.table-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
